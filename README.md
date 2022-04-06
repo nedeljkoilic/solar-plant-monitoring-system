@@ -8,4 +8,4 @@ Hardware equipment used:
 - RAK1903 | WisBlock Ambient Light Sensor
 - LoRa® Antenna
 
--RAK7271 | WisGate Developer Base 
+- RAK7271 | WisGate Developer Base 
